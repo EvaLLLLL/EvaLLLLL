@@ -1,7 +1,6 @@
 ### 👋 Hi! I'm Eva.
 
   - 👨‍💻 I’m a Frontend developer, passionate about technology and always curious to learn new thigs
-  - 🌱 I’m currently learning Go, Rust, and Java
 
 
 🏄‍♂️ **Weekly development breakdown**
