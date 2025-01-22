@@ -1,22 +1,6 @@
 ### 👋 Hi! I'm Eva.
 
-  - 👨‍💻 I’m a Frontend developer, passionate about technology and always curious to learn new thigs
-
-
-🏄‍♂️ **Weekly development breakdown**
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   2 hrs 46 mins   ███████████████████▓░░░░░   78.66 %
-JSON         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Markdown     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-TypeScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
-<!--END_SECTION:waka-->
-
+‍I’m a Frontend developer, passionate about technology and always curious to learn new thigs
 
 ⚡ **Tech stack**
 
