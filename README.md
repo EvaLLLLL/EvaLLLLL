@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Eva.
 
-I’m a frontend developer, passionate about technology and always curious to learn new things.
+Full-stack developer. I build things, break things, and occasionally fix them.
 
 ⚡ **Tech stack**
 
