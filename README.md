@@ -1,6 +1,6 @@
-### 👋 Hi! I'm Eva.
+### 👋 Hi!
 
-Full-stack developer. I build things, break things, and occasionally fix them.
+I build things, break things, and occasionally fix them.
 
 ⚡ **Tech stack**
 
